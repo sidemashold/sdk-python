@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sidemash-sdk",
-    version="1.0.5",
+    version="1.0.6",
     author="Sidemash Cloud Services",
     author_email="opensource@sidemash.com",
     description="Official SDK to use Sidemash Cloud Services",
